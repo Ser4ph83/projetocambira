@@ -1,0 +1,44 @@
+body {
+	background-color: mistyrose;
+	text-align: center;
+	font-size: 40px;
+}
+
+.titulo {
+	font-size: 35px;
+	color: blueviolet;
+}
+
+.paragrafo1 {
+	font-size: 25px;
+	color: blueviolet;
+}
+
+.paragrafo2 {
+	font-size: 50px;
+	color: red;
+}
+
+.naosei {
+	font-size: 125px;
+	color: hotpink;
+	text-align: !important;
+	shape-margin: 400px;
+}
+
+.box {
+	background-color: seashell;
+	border: 1px solid #ccc;
+	padding:  30px;
+	margin: 30px auto;
+	width: 90%;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+	border-radius: 35px;
+}
+
+.btn {
+	border-radius: 40px;
+	background-color: yellow;
+	text-decoration-color: blue;
+	cursor: pointer;
+}
